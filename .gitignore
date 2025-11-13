@@ -14,15 +14,6 @@ data/
 logs/
 
 # Model artifacts and temporary experiment files
-models/
-*.pkl
-*.h5
-*.joblib
-
-# Reports and generated visualizations
-reports/
-*.png
-*.pdf
 
 # Checkpoints or cache from notebooks
 .ipynb_checkpoints/
